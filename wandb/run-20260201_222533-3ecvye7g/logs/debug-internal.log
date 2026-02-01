@@ -1,0 +1,16 @@
+{"time":"2026-02-01T22:25:39.1338284+05:30","level":"INFO","msg":"stream: starting","core version":"0.24.0"}
+{"time":"2026-02-01T22:25:39.7889075+05:30","level":"INFO","msg":"stream: created new stream","id":"3ecvye7g"}
+{"time":"2026-02-01T22:25:39.7889075+05:30","level":"INFO","msg":"stream: started","id":"3ecvye7g"}
+{"time":"2026-02-01T22:25:39.7889075+05:30","level":"INFO","msg":"writer: started","stream_id":"3ecvye7g"}
+{"time":"2026-02-01T22:25:39.7963675+05:30","level":"INFO","msg":"sender: started","stream_id":"3ecvye7g"}
+{"time":"2026-02-01T22:25:39.7963675+05:30","level":"INFO","msg":"handler: started","stream_id":"3ecvye7g"}
+{"time":"2026-02-01T22:25:40.3659555+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-01T22:25:40.4651037+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-01T22:38:00.7028306+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/b25cs1065-indian-institute-of-technology-jodhpur/Simple%20NN%20on%20MNIST%20pytorch/3ecvye7g/file_stream\": read tcp 172.31.74.21:59469->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-01T22:38:45.6460058+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/b25cs1065-indian-institute-of-technology-jodhpur/Simple%20NN%20on%20MNIST%20pytorch/3ecvye7g/file_stream\": read tcp 172.31.74.21:56626->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-01T22:42:32.9509284+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-01T22:42:33.3470597+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-01T22:42:33.3556472+05:30","level":"INFO","msg":"stream: closing","id":"3ecvye7g"}
+{"time":"2026-02-01T22:42:33.3556472+05:30","level":"INFO","msg":"handler: closed","stream_id":"3ecvye7g"}
+{"time":"2026-02-01T22:42:33.3556472+05:30","level":"INFO","msg":"sender: closed","stream_id":"3ecvye7g"}
+{"time":"2026-02-01T22:42:33.3556472+05:30","level":"INFO","msg":"stream: closed","id":"3ecvye7g"}

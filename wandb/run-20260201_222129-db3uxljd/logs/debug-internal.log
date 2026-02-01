@@ -1,0 +1,14 @@
+{"time":"2026-02-01T22:21:31.6275883+05:30","level":"INFO","msg":"stream: starting","core version":"0.24.0"}
+{"time":"2026-02-01T22:21:33.3212938+05:30","level":"INFO","msg":"stream: created new stream","id":"db3uxljd"}
+{"time":"2026-02-01T22:21:33.3218939+05:30","level":"INFO","msg":"handler: started","stream_id":"db3uxljd"}
+{"time":"2026-02-01T22:21:33.3232254+05:30","level":"INFO","msg":"stream: started","id":"db3uxljd"}
+{"time":"2026-02-01T22:21:33.3232254+05:30","level":"INFO","msg":"sender: started","stream_id":"db3uxljd"}
+{"time":"2026-02-01T22:21:33.3232254+05:30","level":"INFO","msg":"writer: started","stream_id":"db3uxljd"}
+{"time":"2026-02-01T22:21:34.1196738+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-01T22:21:34.2608025+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-01T22:25:38.7230823+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-01T22:25:39.1116169+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-01T22:25:39.1249485+05:30","level":"INFO","msg":"stream: closing","id":"db3uxljd"}
+{"time":"2026-02-01T22:25:39.1281251+05:30","level":"INFO","msg":"handler: closed","stream_id":"db3uxljd"}
+{"time":"2026-02-01T22:25:39.1287471+05:30","level":"INFO","msg":"sender: closed","stream_id":"db3uxljd"}
+{"time":"2026-02-01T22:25:39.1287471+05:30","level":"INFO","msg":"stream: closed","id":"db3uxljd"}

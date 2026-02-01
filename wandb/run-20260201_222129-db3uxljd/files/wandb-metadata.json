@@ -1,0 +1,40 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.14.0",
+  "startedAt":  "2026-02-01T16:51:29.109155Z",
+  "program":  "c:\\Users\\SMAYA\\OneDrive\\Desktop\\python\\WARP-26-INSPECT\\Task-1_Smayan.ipynb",
+  "codePath":  "c:\\Users\\SMAYA\\OneDrive\\Desktop\\python\\WARP-26-INSPECT\\Task-1_Smayan.ipynb",
+  "codePathLocal":  "Task-1_Smayan.ipynb",
+  "git":  {
+    "remote":  "https://github.com/smayanroy/WARP-26-INSPECT.git",
+    "commit":  "19cfe0e4cc042cb9d889c6dc9017860ff4f7bdae"
+  },
+  "email":  "b25cs1065@iitj.ac.in",
+  "root":  "c:\\Users\\SMAYA\\OneDrive\\Desktop\\python\\WARP-26-INSPECT",
+  "host":  "LAPTOP-JPEPH7Q1",
+  "executable":  "c:\\Users\\SMAYA\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1021821579264",
+      "used":  "141580021760"
+    }
+  },
+  "memory":  {
+    "total":  "34053414912"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 5060 Laptop GPU",
+      "memoryTotal":  "8546942976",
+      "cudaCores":  3328,
+      "architecture":  "Blackwell",
+      "uuid":  "GPU-60fa0d5f-51b9-49dc-3137-f6ea97dafa2a"
+    }
+  ],
+  "cudaVersion":  "13.0",
+  "writerId":  "l9fqoi8zlxpk7zcmhrzs3rc9hzxlt78s"
+}
