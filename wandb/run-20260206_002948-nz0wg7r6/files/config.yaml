@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.24.0
+        code_path: c:/Users/SMAYA/OneDrive/Desktop/python/WARP-26-INSPECT/cnn_pytorch.ipynb
+        e:
+            m9yyj5sj8t5snz4375s6gadwvpea0yef:
+                codePath: c:\Users\SMAYA\OneDrive\Desktop\python\WARP-26-INSPECT\cnn_pytorch.ipynb
+                codePathLocal: cnn_pytorch.ipynb
+                cpu_count: 14
+                cpu_count_logical: 20
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "1021821579264"
+                        used: "142450790400"
+                email: b25cs1065@iitj.ac.in
+                executable: c:\Users\SMAYA\AppData\Local\Python\pythoncore-3.14-64\python.exe
+                git:
+                    commit: efd1d82fc8a0367e16a08618b26520f037c76a9c
+                    remote: https://github.com/smayanroy/WARP-26-INSPECT.git
+                gpu: NVIDIA GeForce RTX 5060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Blackwell
+                      cudaCores: 3328
+                      memoryTotal: "8546942976"
+                      name: NVIDIA GeForce RTX 5060 Laptop GPU
+                      uuid: GPU-60fa0d5f-51b9-49dc-3137-f6ea97dafa2a
+                host: LAPTOP-JPEPH7Q1
+                memory:
+                    total: "34053414912"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\SMAYA\OneDrive\Desktop\python\WARP-26-INSPECT\cnn_pytorch.ipynb
+                python: CPython 3.14.0
+                root: c:\Users\SMAYA\OneDrive\Desktop\python\WARP-26-INSPECT
+                startedAt: "2026-02-05T18:59:48.765195Z"
+                writerId: m9yyj5sj8t5snz4375s6gadwvpea0yef
+        m: []
+        python_version: 3.14.0
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+                - 16
+            "4": 3.14.0
+            "5": 0.24.0
+            "8":
+                - 1
+                - 3
+            "12": 0.24.0
+            "13": windows-amd64
+batch_size:
+    value: 128
+epochs:
+    value: 20
+loss function:
+    value: CrossEntropyLoss
+optimizer:
+    value: Adam

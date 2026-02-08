@@ -1,0 +1,14 @@
+{"time":"2026-02-05T23:18:18.0360199+05:30","level":"INFO","msg":"stream: starting","core version":"0.24.0"}
+{"time":"2026-02-05T23:18:19.6253095+05:30","level":"INFO","msg":"stream: created new stream","id":"fuog664v"}
+{"time":"2026-02-05T23:18:19.6271209+05:30","level":"INFO","msg":"handler: started","stream_id":"fuog664v"}
+{"time":"2026-02-05T23:18:19.6274899+05:30","level":"INFO","msg":"stream: started","id":"fuog664v"}
+{"time":"2026-02-05T23:18:19.6279981+05:30","level":"INFO","msg":"sender: started","stream_id":"fuog664v"}
+{"time":"2026-02-05T23:18:19.6279981+05:30","level":"INFO","msg":"writer: started","stream_id":"fuog664v"}
+{"time":"2026-02-05T23:18:20.3854585+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-05T23:18:20.4963371+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-05T23:41:14.4308209+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-05T23:41:14.8551274+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-05T23:41:14.8673458+05:30","level":"INFO","msg":"stream: closing","id":"fuog664v"}
+{"time":"2026-02-05T23:41:14.8678518+05:30","level":"INFO","msg":"handler: closed","stream_id":"fuog664v"}
+{"time":"2026-02-05T23:41:14.8678518+05:30","level":"INFO","msg":"sender: closed","stream_id":"fuog664v"}
+{"time":"2026-02-05T23:41:14.8678518+05:30","level":"INFO","msg":"stream: closed","id":"fuog664v"}

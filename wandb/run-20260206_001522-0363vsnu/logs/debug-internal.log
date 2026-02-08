@@ -1,0 +1,15 @@
+{"time":"2026-02-06T00:15:24.3644749+05:30","level":"INFO","msg":"stream: starting","core version":"0.24.0"}
+{"time":"2026-02-06T00:15:25.057901+05:30","level":"INFO","msg":"stream: created new stream","id":"0363vsnu"}
+{"time":"2026-02-06T00:15:25.0584117+05:30","level":"INFO","msg":"handler: started","stream_id":"0363vsnu"}
+{"time":"2026-02-06T00:15:25.0589873+05:30","level":"INFO","msg":"stream: started","id":"0363vsnu"}
+{"time":"2026-02-06T00:15:25.0589873+05:30","level":"INFO","msg":"writer: started","stream_id":"0363vsnu"}
+{"time":"2026-02-06T00:15:25.0589873+05:30","level":"INFO","msg":"sender: started","stream_id":"0363vsnu"}
+{"time":"2026-02-06T00:15:25.568636+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-06T00:15:25.6677691+05:30","level":"ERROR","msg":"error generating diff","error":"no diff found"}
+{"time":"2026-02-06T00:25:15.7271866+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/b25cs1065-indian-institute-of-technology-jodhpur/CNN%20on%20MNIST%20pytorch/0363vsnu/file_stream\": read tcp 172.31.94.18:59864->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-02-06T00:26:52.1060779+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-06T00:26:52.497303+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-06T00:26:52.5105954+05:30","level":"INFO","msg":"stream: closing","id":"0363vsnu"}
+{"time":"2026-02-06T00:26:52.5105954+05:30","level":"INFO","msg":"handler: closed","stream_id":"0363vsnu"}
+{"time":"2026-02-06T00:26:52.5105954+05:30","level":"INFO","msg":"sender: closed","stream_id":"0363vsnu"}
+{"time":"2026-02-06T00:26:52.5105954+05:30","level":"INFO","msg":"stream: closed","id":"0363vsnu"}
